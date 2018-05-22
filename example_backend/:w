@@ -1,2 +1,0 @@
-from netjsoncofing.backends.base import BaseBackend
-class Stocazzo(BaseBackend)
